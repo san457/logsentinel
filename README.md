@@ -72,6 +72,24 @@ The system resolves these issues using a multi-threaded design:
 
 ---
 
+## 🖼️ Screenshots
+
+### Docker Compose and Logs
+
+![Docker Compose services](assets/docker_compose_logs.png)
+
+![Terminal logs view](assets/terminal_logs.png)
+
+### Alerting and Dashboard
+
+![Discord alerts](assets/discord_alerts_1.png)
+
+![Docker Desktop container status](assets/docker_desktop.png)
+
+> Open the `assets/` folder for the full set of screenshot files captured in this repository.
+
+---
+
 ## ✨ 5. Key Features
 
 *   **Continuous Log Tailing**: Simulates `tail -f` behavior with low-overhead file system polling.
