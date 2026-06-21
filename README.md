@@ -283,9 +283,3 @@ Docker Compose will orchestrate both services and configure a shared volume for 
 ![Docker Compose Terminal Logs](assets/docker_compose_logs.png)
 
 ---
-
-## 17. License
-
-This project is licensed under the MIT License. See LICENSE for details.
-
----
