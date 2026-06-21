@@ -34,7 +34,7 @@ The system resolves these issues using a multi-threaded design:
 
 ## 4. Architecture Diagram
 
-![Architecture diagram](assets/image.png)
+![Architecture diagram](assets/Untitled Diagram.png)
 
 *(Refer to the [Screenshots](#screenshots-section) section for the visual Draw.io rendering).*
 
